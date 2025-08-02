@@ -1,0 +1,23 @@
+{
+    "githubPullRequests.allowFetch": false,
+    "githubPullRequests.codingAgent.autoCommitAndPush": false,
+    "githubPullRequests.codingAgent.enabled": false,
+    "githubPullRequests.createDefaultBaseBranch": "repositoryDefault",
+    "githubPullRequests.createOnPublishBranch": "never",
+    "githubPullRequests.defaultCommentType": "single",
+    "githubPullRequests.defaultDeletionMethod.selectLocalBranch": false,
+    "githubPullRequests.defaultCreateOption": "createDraft",
+    "githubPullRequests.defaultDeletionMethod.selectRemote": false,
+    "githubPullRequests.defaultMergeMethod": "squash",
+    "githubPullRequests.experimental.chat": false,
+    "githubPullRequests.fileListLayout": "flat",
+    "githubPullRequests.focusedMode": false,
+    "githubPullRequests.notifications": "pullRequests",
+    "githubPullRequests.postCreate": "none",
+    "githubPullRequests.pullPullRequestBranchBeforeCheckout": "never",
+    "githubPullRequests.pullRequestDescription": "none",
+    "githubPullRequests.pushBranch": "always",
+    "githubPullRequests.terminalLinksHandler": "github",
+    "githubPullRequests.upstreamRemote": "never",
+    "githubPullRequests.webviewRefreshInterval": 1
+}
